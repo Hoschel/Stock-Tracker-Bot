@@ -1,0 +1,12 @@
+python-telegram-bot
+python-dotenv
+requests
+beautifulsoup4
+selenium
+msedge-selenium-tools
+retry
+cachetools
+aiohttp
+prometheus_client
+psutil
+winreg
